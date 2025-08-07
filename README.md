@@ -5,6 +5,7 @@ I'm a recent Computer Science graduate from the University of Westminster with a
 ## 🌱 What I’m currently working on
 
 - 👩🏻‍💻 Completing Hacking with Swift’s [*100 Days of SwiftUI*](https://www.hackingwithswift.com/100/swiftui)
+- 💡 Relearning Java
 
 ## 📂 Featured Projects
 - [📚 Book Club App (iOS)](https://github.com/alishasc/book-club-organiser-ios) – Connects readers via online and in-person clubs, with events and in-app messaging
