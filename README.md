@@ -35,7 +35,7 @@ I'm a recent Computer Science graduate from the University of Westminster with a
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alishasc&layout=compact&theme=blue_navy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alishasc&layout=compact&theme=solarized-light)
 
 ## ✨ Interests
 
