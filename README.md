@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Alisha
 
-I'm a recent Computer Science graduate from the University of Westminster with a passion for mobile development and user-centered design. I'm currently enjoying learning Swift!
+I'm a recent Computer Science graduate from the University of Westminster with a passion for mobile development and user-centered design 😊
 
 ## 🌱 What I’m currently working on
 
-- 👩🏻‍💻 Completing Hacking with Swift’s [*100 Days of SwiftUI*](https://www.hackingwithswift.com/100/swiftui)
+- 👩🏻‍💻 Completing Hacking with Swift’s [*100 Days of SwiftUI*](https://www.hackingwithswift.com/100/swiftui) - [Repository here!](https://github.com/alishasc/100-Days-of-SwiftUI/tree/main)
 - 💡 Relearning Java
 
 ## 📂 Featured Projects
