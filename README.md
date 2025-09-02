@@ -41,6 +41,7 @@ I'm a recent Computer Science graduate from the University of Westminster with a
 
 - iOS Mobile development
 - Digital design & UI/UX
+- Java
 
 ## 📫 Get in touch
 
